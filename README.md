@@ -1,41 +1,53 @@
-# 👋 ¡Hola! Soy José M. Montaño
+<h1 align="center">🛠️ Josema Montano</h1>
 
-### 👨‍💻 Ingeniero apasionado por la tecnología, el desarrollo de software y la inteligencia artificial.
-
-<!-- Puedes reemplazar este enlace por un gif que te represente -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif" width="400" alt="GIF presentación" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif" width="420" alt="Motorcycle pixel art" />
+</p>
+
+<p align="center" style="color: #8899a6;">
+  <i>Engineer, developer and digital dreamer constantly seeking to build things that matter.</i>
 </p>
 
 ---
 
-🛠️ **Tecnologías y herramientas que uso a diario:**
+### 🌒 About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+- ⚙️ Fullstack developer focused on building functional, scalable and meaningful systems.
+- 📊 Passionate about AI, expert systems, computer vision and intelligent automation.
+- 🌌 Inspired by projects that blend technology with art, nature or social impact.
+- 📍 Based in Tarija, Bolivia.
 
 ---
 
-📌 **Sobre mí:**
+### 🧰 Core Tech Stack
 
-- 💡 Siempre buscando aprender y mejorar.
-- 🚀 Amante del código limpio y los proyectos funcionales.
-- 🤖 Interesado en IA aplicada, visión por computadora y automatización.
-- 🌱 Explorando cloud, arquitecturas limpias y DevOps.
+<!-- Darker badge tones for consistency -->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1e1e2f?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-282c34?style=flat&logo=firebase&logoColor=FFCA28)
+![Python](https://img.shields.io/badge/Python-2b2d42?style=flat&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-1f2937?style=flat&logo=c-sharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2d2d2d?style=flat&logo=laravel&logoColor=F55247)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat&logo=mysql&logoColor=white)
 
 ---
 
+### 📫 Contact
 
-📫 **¿Dónde encontrarme?**
+<p align="center">
+  <a href="https://www.linkedin.com/in/josema-montano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:josema.montano@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Josema-montano">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josema-montano/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:josema.montano@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Josema-montano)
+---
 
+<p align="center" style="color: #94a3b8;">
+  “Every great line of code starts with a cup of coffee, a quiet mind, and a bold idea.” ☕
+</p>
