@@ -4,7 +4,7 @@
 
 <!-- Puedes reemplazar este enlace por un gif que te represente -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/e7d2bd61228185.5a67a07360e75.gif)" width="400" alt="Coding gif" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif" width="400" alt="GIF presentación" />
 </p>
 
 ---
